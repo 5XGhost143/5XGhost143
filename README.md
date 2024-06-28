@@ -16,6 +16,7 @@ Main Lang: Python
 
 3rd Lang: Javascript
 
+#
 
-if it is absolutely necessary: C# or C++
+if it is absolutely necessary: C#
                                              
