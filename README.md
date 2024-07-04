@@ -3,7 +3,7 @@
 
 ![902598](https://cdn.ghost143.de/profile.gif)
 #
-[![My Stats](https://github-readme-stats.vercel.app/api?username=DieserGhost)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=DieserGhost)](https://ghost143.de/CookieClick/)
 
 #
 
