@@ -14,7 +14,7 @@ Main Lang: Python
 2nd Lang: Java
 
 
-3rd Lang: Javascript
+3rd Lang: NodeJS, Web JS
 
 #
 
