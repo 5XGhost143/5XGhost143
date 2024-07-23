@@ -13,10 +13,10 @@
 Main Lang: Python
 
 
-2nd Lang: C#
+2nd Lang: Java
 
 
-3rd Lang: NodeJS, Web JS
+3rd Lang: C#
 
 #
                                              
