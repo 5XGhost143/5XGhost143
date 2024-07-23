@@ -10,13 +10,13 @@
 
 #  #Developer
 
-Main Lang: Python
+Main Lang: C#
 
 
-2nd Lang: Java
+2nd Lang: Python
 
 
-3rd Lang: C#
+3rd Lang: Java
 
 #
                                              
