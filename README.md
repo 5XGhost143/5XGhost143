@@ -1,11 +1,11 @@
 
 
 
-![902598](https://cdn.ghost143.de/profile.gif)
+![902598](https://cdn.ghost143.de/profile.gif)](https://ghost143.de)
 #
-[![My Stats](https://github-readme-stats.vercel.app/api?username=5XGhost143)](https://ghost143.de/CookieClick/)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=5XGhost143)](https://ghost143.de)
 #
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=5XGhost143&show_icons=true&theme=tokyonight&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=5XGhost143&show_icons=true&theme=tokyonight&layout=compact)](https://ghost143.de)
 
 
 #  #Developer
