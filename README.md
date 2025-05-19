@@ -5,7 +5,7 @@
 #
 [![My Stats](https://github-readme-stats.vercel.app/api?username=DieserGhost)](https://ghost143.de/CookieClick/)
 #
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DieserGhost&show_icons=true&theme=tokyonight&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=5XGhost143&show_icons=true&theme=tokyonight&layout=compact)
 
 
 #  #Developer
