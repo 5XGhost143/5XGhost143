@@ -4,7 +4,7 @@
 #
 ![My Stats](https://github-readme-stats.vercel.app/api?username=5XGhost143)
 #
-https://github-readme-stats.vercel.app/api/top-langs?username=5XGhost143&show_icons=true&theme=tokyonight&layout=compact
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=5XGhost143&show_icons=true&theme=tokyonight&layout=compact)
 
 
 #  #Developer
