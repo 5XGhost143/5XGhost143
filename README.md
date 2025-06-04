@@ -1,6 +1,6 @@
 
 #
-![902598](https://cdn.ghost143.de/profile.gif)
+![902598](https://cdn.ghost143.de/5X_logo_github_ready.png)
 #
 ![My Stats](https://github-readme-stats.vercel.app/api?username=5XGhost143)
 #
