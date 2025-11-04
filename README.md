@@ -7,13 +7,13 @@
 
 #  #Developer
 
-Main Lang: C#
+Main Lang: C# (mainly Backends for my Software eg. BetterMomentum or BetterReload)
 
 
-2nd Lang: Python
+2nd Lang: Python (mainly focused on Websites)
 
 
-3rd Lang: Java
+3rd Lang: Java (Bukkit)
 
 #
                                              
