@@ -1,9 +1,1 @@
-
-Main Lang: C#
-
-
-2nd Lang: Python
-
-
-3rd Lang: Java (mainly focused on Minecraft Bukkit API)
-                                             
+**Hi I'm Ghost143 I mainly code in C# and Python my Projects but i'm free to test new frameworks and coding languages**
